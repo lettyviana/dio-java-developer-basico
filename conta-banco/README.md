@@ -34,8 +34,7 @@ A proposta é exercitar o conteúdo apresentado no módulo "Aprendendo a Sintaxe
 ## **Tecnologias/linguagens utilizadas**
 
 <div style="display: inline_block" align="center"><br />
-    <img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white
-    " height="35px" alt="Java" align="center" />
+    <img src="https://img.shields.io/badge/Java-FF4500?style=for-the-badge&logo=java&logoColor=white" height="35px" alt="Java" align="center" />
 </div><br />
 
 ## **Instruções**
