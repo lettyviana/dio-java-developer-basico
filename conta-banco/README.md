@@ -42,6 +42,7 @@ A proposta é exercitar o conteúdo apresentado no módulo "Aprendendo a Sintaxe
 Para executar o projeto:
 
 - Escolha o diretório/pasta onde deseja salvar o projeto;
+- Abra o terminal/[git bash](https://git-scm.com/downloads) no diretório/pasta escolhido;
 - Dê o comando:
 
 ```
