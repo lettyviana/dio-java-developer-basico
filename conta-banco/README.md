@@ -42,14 +42,22 @@ A proposta é exercitar o conteúdo apresentado no módulo "Aprendendo a Sintaxe
 Para executar o projeto:
 
 - Escolha o diretório/pasta onde deseja salvar o projeto;
-- Dê o comando: 
-`git clone https://github.com/lettyviana/dio-java-developer-basico.git` e siga as instruções;
+- Dê o comando:
+
+```
+git clone https://github.com/lettyviana/dio-java-developer-basico.git
+```
+
 - Depois de ter o projeto devidamente clonado, há dois caminhos a seguir:
 
   1. Acessar a pasta bin pelo terminal;
   2. Já na pasta bin, segurar o SHIFT e clicar com o botão direito e, dependendo do sistema operacional, escolher como deseja abrir (como eu uso Windows, a opção apropriada para mim é "Abrir no terminal" ou "Abrir janela do PowerShell aqui").
 
-- Feito isso, dê o seguinte comando: `java ContaTerminal` e siga as instruções.
+- Feito isso, dê o seguinte comando: 
+```
+java ContaTerminal
+``` 
+- Siga as instruções.
 
   <div style="color:crimson"><strong>OBS.: Ao informar o saldo, não use ponto, e sim vírgula para separar os decimais.</strong></div>
 - Ao final, o resultado obtido será parecido com este:
